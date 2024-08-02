@@ -1,5 +1,0 @@
-123 
-
-company
-
-刪除ssh key
